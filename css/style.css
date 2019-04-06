@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
+
 .main {
 	width: 100%;
 	height: 70px;
@@ -29,4 +30,19 @@
 	height: 80px;
 	text-align: center;
 	color: black;
+}
+
+.Ele-11 {
+	width: 150px;
+	height: 150px;
+	border: 1.5px solid orange;
+	border-radius: 75px;
+	margin: 0 auto;
+	margin-top: 50px;
+	
+}
+
+.Ele-12 {
+	margin-top: 63.5px;
+	text-align: center;
 }
