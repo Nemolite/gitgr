@@ -8,6 +8,10 @@
 	background-color: #4fc3f7;
 }
 
+.main p{
+	font-size: 0.7vw;
+}
+
 .textexam {
 	width: 50%;
 	height: 150px;
