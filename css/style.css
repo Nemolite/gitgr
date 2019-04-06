@@ -96,4 +96,21 @@ margin: 0 auto;
     transition-duration: .2s;
 
 }
+.ibragim {
+    text-align: center;
 
+
+
+}
+.novost{
+    margin-left:33%; 
+    width: 600px;
+    border: 1px solid #A76E2A;
+    border-radius: 10px;
+    display: block;
+    
+}
+
+.kartinochka img{
+    border-radius: 20px;
+}
