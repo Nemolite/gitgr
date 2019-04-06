@@ -43,3 +43,11 @@
 margin: 0 auto;
 }
 
+.example { 
+	width: 604px;
+	height: 100px;
+	background-color: #DC143C; }
+
+.example h3 { 
+	font-family: Tahoma;
+	text-align: center; }
