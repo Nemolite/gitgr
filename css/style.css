@@ -9,6 +9,10 @@
 	background-color: #4fc3f7;
 }
 
+.main p{
+	font-size: 0.7vw;
+}
+
 .textexam {
 	width: 50%;
 	height: 150px;
@@ -44,5 +48,9 @@
 
 .Ele-12 {
 	margin-top: 63.5px;
+}
+
+.loremru{
+	width: 70%;
 	text-align: center;
 }
